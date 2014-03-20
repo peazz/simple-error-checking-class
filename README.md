@@ -1,2 +1,5 @@
-simple-error-checking-class
+Simple Error Checking Class
+===========================
+
+Simple Error Checking Class
 ===========================
