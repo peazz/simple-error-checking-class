@@ -1,0 +1,2 @@
+simple-error-checking-class
+===========================
